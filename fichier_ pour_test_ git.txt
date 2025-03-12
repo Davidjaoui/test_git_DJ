@@ -1,0 +1,18 @@
+test fichier vide
+methodo
+
+avec ls et cd dans le termial
+ aller sur dossier voulu du PC
+
+lancer commande 
+git clone + lien de GitHub
+
+git status pour verifier si c'est OK
+control avec git ls
+
+generer fichier ou faire modif 
+dans le dossier ou sur element du dossier PC
+
+git add -A ou git add + nom du fichier modifié
+git commit -m "texte explicatif changement"
+git push
